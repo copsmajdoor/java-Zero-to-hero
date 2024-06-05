@@ -1,0 +1,4 @@
+Platform independence---Whenever a program is written in JAVA, the javac compiles it.
+The result of the JAVA compiler is the .class file or the bytecode and not the machine’s native code (unlike the C compiler).
+The bytecode generated is a non-executable code and needs an interpreter to execute on a machine. This interpreter is the JVM and thus the Bytecode is executed by the JVM.
+And finally, the program runs to give the desired output.
